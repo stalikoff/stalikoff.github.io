@@ -6,8 +6,8 @@
     {
         "appID": "7BVKUXZ54W.lt.eurospektras.cargolt",
         "paths": [
-	"/index",
-	"/cargoslist.asp"
+	"/asp/translist.asp",
+	"/asp/cargoslist.asp"
 	 ]
         }
         ]
