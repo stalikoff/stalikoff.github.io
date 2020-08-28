@@ -6,9 +6,7 @@
     {
         "appID": "HC525XL754.llc.sandbox.doki",
         "paths": [
-	"/docs/",
-	"/asp/translist.asp",
-	"/asp/cargoslist.asp"
+	"*"
 	 ]
         }
         ]
